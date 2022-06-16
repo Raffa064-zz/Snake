@@ -1,0 +1,17 @@
+res path mapping:
+    res/drawable-xhdpi-v4 -> r/a
+    res/drawable-ldpi-v4 -> r/b
+    res/drawable-mdpi-v4 -> r/c
+    res/layout -> r/d
+    res/drawable -> r/e
+    res/drawable-hdpi-v4 -> r/f
+    res/drawable-xxhdpi-v4 -> r/g
+    res/drawable-xxxhdpi-v4 -> r/h
+
+
+res id mapping:
+    com.raffa064.snake.R.drawable.icon -> com.raffa064.snake.R.drawable.a
+    com.raffa064.snake.R.drawable.ic_launcher -> com.raffa064.snake.R.drawable.b
+    com.raffa064.snake.R.layout.activity_main -> com.raffa064.snake.R.layout.a
+    com.raffa064.snake.R.string.app_name -> com.raffa064.snake.R.string.a
+    com.raffa064.snake.R.id.game_parent -> com.raffa064.snake.R.id.a
